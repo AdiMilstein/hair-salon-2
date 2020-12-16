@@ -1,3 +1,3 @@
 # hair-salon
 # hair-salon-2
-[image]images/logo.png
+[image](/images/screenshot1 hair salon.PNG)
